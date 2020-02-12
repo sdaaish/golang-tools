@@ -1,6 +1,6 @@
-# TCP-Proxy to fix Docker on windows connectivity issues
-#
-# From: https://github.com/Microsoft/Docker.DotNet/issues/109
+// TCP-Proxy to fix Docker on windows connectivity issues
+//
+// From: https://github.com/Microsoft/Docker.DotNet/issues/109
 
 package main
 
